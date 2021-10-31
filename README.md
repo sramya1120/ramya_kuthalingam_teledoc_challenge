@@ -11,5 +11,6 @@ Steps to run the program:
 
 Note : While adding new user, 'customer' column is not enabled to the table even when selected in the AddUser page.
 
-	![Console_output](https://user-images.githubusercontent.com/93456488/139564851-310cf137-b0c0-4ea5-acec-c0bf7fd20e04.PNG)
+	
   ![webpage_output](https://user-images.githubusercontent.com/93456488/139564857-3ea7e973-2010-4f93-9a4a-ade296765240.PNG)
+![Console_output](https://user-images.githubusercontent.com/93456488/139565047-c5dd2768-17d7-4710-b276-3cc56b25c314.PNG)
