@@ -9,8 +9,10 @@ Steps to run the program:
 
 -> New User with firstname as 'FName test' is added and user with firstname 'Mark'is deleted from the table 
 
-Note : While adding new user, 'customer' column is not enabled to the table even when selected in the AddUser page.
+-> User added and deleted from the table
+ ![webpage_output](https://user-images.githubusercontent.com/93456488/139564857-3ea7e973-2010-4f93-9a4a-ade296765240.PNG)
+ 
+ ->Add/delete user verification in console
+![Console_output](https://user-images.githubusercontent.com/93456488/139565212-1cac5d86-7624-4bcb-9947-ad7dc03fd11c.PNG)
 
-	
-  ![webpage_output](https://user-images.githubusercontent.com/93456488/139564857-3ea7e973-2010-4f93-9a4a-ade296765240.PNG)
-![Console_output](https://user-images.githubusercontent.com/93456488/139565047-c5dd2768-17d7-4710-b276-3cc56b25c314.PNG)
+Note : While adding new user, 'customer' column is not enabled to the table even when selected in the AddUser page.
